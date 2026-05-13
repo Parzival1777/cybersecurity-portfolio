@@ -1,4 +1,4 @@
-# Andrea Valcarenghi - Cyber Security Portfolio
+# Andrea Valcarenghi - Cybersecurity Portfolio
 
 Aspiring Cybersecurity Specialist focused on Defensive Security, SOC Operations, Network Analysis, and Cloud Security.
 
@@ -41,7 +41,7 @@ Simulated failed SSH login attempts against an Ubuntu Server and analyzed authen
 ### Network Traffic Analysis & Port Scanning Detection Lab
 [View Project](./network-traffic-analysis-detection-lab)
 
-Analyzed ICMP, DNS, TCP/TLS traffic and detected reconnaissance activity using Wireshark and Nmap in a Linux virtual lab environment.
+Analyzed ICMP, DNS, TCP/TLS traffic and identified reconnaissance activity generated through Nmap scanning in a Linux virtual lab environment.
 
 ---
 
