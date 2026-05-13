@@ -1,8 +1,6 @@
-# cybersecurity-portfolio
-
 # Andrea Valcarenghi - Cyber Security Portfolio
 
-Aspiring Cyber Security Specialist focused on Defensive Security, SOC Operations and Cloud Security.
+Aspiring Cybersecurity Specialist focused on Defensive Security, SOC Operations, Network Analysis, and Cloud Security.
 
 ---
 
@@ -11,7 +9,10 @@ Aspiring Cyber Security Specialist focused on Defensive Security, SOC Operations
 - Linux
 - Networking
 - TCP/IP
+- DNS
 - SSH
+- Wireshark
+- Nmap
 - Log Analysis
 - SIEM Basics
 - VirtualBox
@@ -20,16 +21,33 @@ Aspiring Cyber Security Specialist focused on Defensive Security, SOC Operations
 
 ---
 
+## Tools & Technologies
+
+- Wireshark
+- Nmap
+- Linux
+- VirtualBox
+- GitHub
+- Kali Linux
+- Ubuntu Server
+
 ## Featured Projects
 
 ### SSH Brute Force Detection Lab
+[View Project](./ssh-brute-force-lab)
+
 Simulated failed SSH login attempts against an Ubuntu Server and analyzed authentication logs.
+
+### Network Traffic Analysis & Port Scanning Detection Lab
+[View Project](./network-traffic-analysis-detection-lab)
+
+Analyzed ICMP, DNS, TCP/TLS traffic and detected reconnaissance activity using Wireshark and Nmap in a Linux virtual lab environment.
 
 ---
 
 ## Certifications
 
-Currently studying for:
+Currently preparing for:
 
 - CompTIA Security+
 - EC-Council Ethical Hacking Essentials (EHE)
