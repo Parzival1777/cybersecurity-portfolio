@@ -38,6 +38,8 @@ Aspiring Cybersecurity Specialist focused on Defensive Security, SOC Operations,
 
 Simulated failed SSH login attempts against an Ubuntu Server and analyzed authentication logs.
 
+---
+
 ### Network Traffic Analysis & Port Scanning Detection Lab
 [View Project](./network-traffic-analysis-detection-lab)
 
