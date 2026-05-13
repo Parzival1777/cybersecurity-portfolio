@@ -22,31 +22,31 @@ A ping test was performed between Kali Linux and Ubuntu to verify network commun
 
 DNS queries and responses were captured while accessing external websites.
 
-![DNS Analysis](network-traffic-analysis-detection-lab/screenshots/dns-query-analysis.png)
+![DNS Analysis](Screenshots/dns-query-analysis.png)
 
 ## TCP and TLS Traffic
 
 TCP and TLS traffic was analyzed to observe HTTPS communication and encrypted connections.
 
-![TCP TLS Traffic](network-traffic-analysis-detection-lab/screenshots/tcp-tls-traffic.png)
+![TCP TLS Traffic](Screenshots/tcp-tls-traffic.png)
 
 ## Nmap Port Scan
 
 An Nmap scan was performed from Kali Linux against the Ubuntu target system.
 
-![Nmap Scan](network-traffic-analysis-detection-lab/screenshots/nmap-scan-results.png)
+![Nmap Scan](Screenshots/nmap-scan-results.png)
 
 ## Port Scan Detection
 
 Wireshark captured multiple TCP SYN packets and RST responses generated during the Nmap scan, demonstrating reconnaissance activity and port enumeration behavior.
 
-![Port Scan Detection](network-traffic-analysis-detection-lab/screenshots/nmap-port-scan-detection.png)
+![Port Scan Detection](Screenshots/nmap-port-scan-detection.png)
 
 ## ICMP Traffic Analysis
 
 Wireshark was used to capture ICMP Echo Request and Echo Reply packets generated during the ping test.
 
-![ICMP Analysis](network-traffic-analysis-detection-lab/screenshots/icmp-packet-analysis.png)
+![ICMP Analysis](Screenshots/icmp-packet-analysis.png)
 
 ## Skills Demonstrated
 
