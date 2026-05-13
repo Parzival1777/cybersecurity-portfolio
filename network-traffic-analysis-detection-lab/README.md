@@ -16,7 +16,7 @@ This project demonstrates basic network traffic analysis and reconnaissance dete
 
 A ping test was performed between Kali Linux and Ubuntu to verify network communication.
 
-![Ping Test](/screenshots/ping-connectivity-test.png)
+![Ping Test](Screenshots/ping-connectivity-test.png)
 
 ## DNS Traffic Analysis
 
