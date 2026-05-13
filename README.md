@@ -60,4 +60,4 @@ Currently preparing for:
 ## Contacts
 
 - LinkedIn:www.linkedin.com/in/andrea-valcarenghi-571166373
-- GitHubh:ttps://github.com/Parzival1777/cybersecurity-portfolio
+- GitHub:[https://github.com/Parzival1777/cybersecurity-portfolio](https://github.com/Parzival1777/cybersecurity-portfolio)
