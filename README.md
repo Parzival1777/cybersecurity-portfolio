@@ -59,5 +59,5 @@ Currently preparing for:
 
 ## Contacts
 
-- LinkedIn: linkedin.com/in/andrea-valcarenghi-571166373
+- LinkedIn:www.linkedin.com/in/andrea-valcarenghi-571166373
 - https://github.com/Parzival1777/cybersecurity-portfolio
